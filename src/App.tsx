@@ -2,7 +2,7 @@ import { Phone } from 'lucide-react';
 
 function App() {
   const handleContact = () => {
-    window.location.href = 'tel:+5599992207521';
+    window.location.href = 'tel:+5599992075219';
   };
 
   return (

@@ -23,7 +23,7 @@ function App() {
               <div className="h-px w-24 mx-auto bg-gradient-to-r from-transparent via-gray-600 to-transparent"></div>
 
               <p className="text-gray-400 text-lg tracking-wide font-light">
-                Designer Gráfico e<br />Estrategista Digital
+                Designer Gráfico & Estrategista Digital
               </p>
             </div>
 
